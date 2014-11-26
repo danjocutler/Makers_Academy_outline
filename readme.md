@@ -65,6 +65,10 @@ Week 1
 
         - London Style Testing (Version 1)
 
+  - [x] [Unixoid](https://github.com/danjocutler/unixoid)
+  
+        - Command Line practice      
+
   - [x] [Octocat Challenge](https://github.com/danjocutler/Github_challenge_questions) (Friday Challenge)
 
         - Github Practice
@@ -221,6 +225,8 @@ Week 7
   - JQuery
   - Node.js
   - Socket.io
+  - AngularJS
+  - Grunt
   - CoffeeScript
   - Mocha
 
@@ -229,6 +235,18 @@ Week 7
   - [x] [CoffeeBuzz](https://github.com/danjocutler/fizzbuzz_coffescript)
 
         - A simple kata to understand the CoffeeScript language
+
+  - [x] [MyToDos](https://github.com/danjocutler/mytodos)
+
+        - A look at AngularJS and Grunt
+
+  - [ ] [LearnYouNode](https://github.com/danjocutler/learnyounode)
+
+        - A tutorial to get the basics of nodeJS
+
+  - [ ] [Ruby Refresher](https://github.com/danjocutler/ruby_refresher)
+
+        - 49 carefully selected Rspec tests to refresh our ruby brains before Rails
 
 Week 8
 --------
@@ -282,6 +300,10 @@ Week 10
   - [x] [Meta Programming](https://github.com/danjocutler/metaprogramming)
 
         - Learning meta programming with Ruby
+
+  - [x] [Tournaent Manager](https://github.com/danjocutler/tournament_prog)
+  
+        - (Extra-curricular; not part of course) A combined effort with 2 other colleagues to create a table tennis tournament manager      
 
 Final Project
 ===============
