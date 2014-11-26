@@ -2,6 +2,7 @@ Makers Academy
 ===================
 
 #####This repository has been created to show a weekly breakdown of my 12 weeks at [Makers Academy](https://www.makersacademy.com). The purpose is to have a single hub that links to all other repositories created whilst on the program for organisational benefit. All project Titles are clickable links.
+Anything that is unchecked represents projects that are still undergoing production.
 
 Pre-Course
 -----------
@@ -22,7 +23,7 @@ Pre-Course
         - Makers' Pills
         - Makers' Quizlet/Memrise
 
-  - [ ] [Student Directory](https://github.com/Scully87/student-directory)
+  - [x] [Student Directory](https://github.com/danjocutler/student_directory)
 
         - First Project
 
@@ -47,7 +48,10 @@ Week 1
 
   - [x] Introduction
 
-  - [ ] [Boris Bikes](https://github.com/Scully87/Boris_Bikes) (Weekday Challenge)
+  - [x] [Boris Bikes](https://github.com/danjocutler/boris_bikes) (Weekday Challenge)
+        - Chicago Style Testing
+
+  - [x] [Boris Bikes 2](https://github.com/danjocutler/boristwo)
 
         - CRC
         - TDD
@@ -56,15 +60,11 @@ Week 1
         - OOP
         - RSpec
 
-  - [x] [FAAST](https://github.com/Scully87/FAAST) (Weekend Challenge)
+  - [x] [FAAST](https://github.com/danjocutler/FAAST_challenge) (Weekend Challenge)
 
-        - Chicago Style Testing (Version 1)
+        - London Style Testing (Version 1)
 
-  - [x] [VAAST](https://github.com/Scully87/VAAST) (Weekend Challenge)
-
-        - London Style Testing (Version 2)
-
-  - [x] [Octocat Challenge](https://github.com/Scully87/Github-Challenge) (Friday Challenge)
+  - [x] [Octocat Challenge](https://github.com/danjocutler/Github_challenge_questions) (Friday Challenge)
 
         - Github Practice
 
@@ -77,24 +77,24 @@ Week 2
 
 ####Projects:
 
-  - [x] [BattleShips](https://github.com/camillavk/BattleShips) (Weekday Challenge)
+  - [ ] [BattleShips](https://github.com/EllaNancyFay/battleships) (Weekday Challenge)
 
         - Team Working
         - Modelling Domain
         - The game engine
         - User Interface
 
-  - [x] [Take-Away](https://github.com/Scully87/Take_Away) (Weekend Challenge)
+  - [ ] [Take-Away](https://github.com/danjocutler/takeaway) (Weekend Challenge)
 
         - Twilio Gem
 
-  - [x] [Fizzbuzz](https://github.com/Scully87/FizzBuzz)
+  - [x] [Inject Method](https://github.com/danjocutler/inject_method)
+
+        - Opening up the Inject method to get a better understanding
+
+  - [x] [Fizzbuzz](https://github.com/danjocutler/fizzbuzz)
 
         - Simple Ruby Kata
-
-  - [x] [Decorator Pattern](https://github.com/Scully87/Decorator_Patternn)
-
-        - Presentation for a SOLID principle
 
 
 Week 3
@@ -110,7 +110,7 @@ Week 3
 
 ####Projects:
 
-  - [x] [BattleShips Web](https://github.com/camillavk/BattleShips) (Weekday Challenge)
+  - [ ] [BattleShips Web](https://github.com/danjocutler/battleships_web) (Weekday Challenge)
 
         - Sinatra
         - Cucumber
@@ -118,20 +118,16 @@ Week 3
         - Sessions
         - Params
 
-  - [x] [Rock Paper Scissors](https://github.com/Scully87/Rock_Paper_Scissors) (Weekend Challenge)
+  - [x] [Rock Paper Scissors](https://github.com/danjocutler/rock_paper_scissors) (Weekend Challenge)
 
         - Using knowledge from weekday challenge to create a version of RPS in the browser
 
-  - [x] [Inject Method](https://github.com/Scully87/Ruby_Inject_Method)
 
-        - Opening up the Inject method to get a better understanding
-
-
-  - [x] [Sinatra Test](https://github.com/Scully87/Sinatra_fun)
+  - [x] [Sinatra Test](https://github.com/danjocutler/sinatra_test)
 
         - A test repository to understand Sinatra
 
-  - [x] [Cucumber Test](https://github.com/Scully87/Cucumber)
+  - [x] [Cucumber Test](https://github.com/danjocutler/oh_hai_cucumber)
 
         - A test repository to understand Cucumber
 
@@ -149,11 +145,11 @@ Week 4
 
 ####Projects:
 
-  - [x] [Bookmark Manager](https://github.com/Scully87/Bookmark-Manager/tree/master/Bookmark_Manager) (Weekday Challenge)
+  - [x] [Bookmark Manager](https://github.com/danjocutler/bookmark_manager) (Weekday Challenge)
 
         - Learning how to use Databases
 
-  - [x] [Twitter Clone](https://github.com/Scully87/Gritter) (Weekend Challenge)
+  - [x] [Twitter Clone](https://github.com/danjocutler/chitter) (Weekend Challenge)
 
         - Creating a twitter clone using Databases.
 
@@ -170,31 +166,23 @@ Week 5
 
 ####Projects:
 
-  - [x] [Pokemon Game](https://github.com/Scully87/pokemon-game)
+  - [x] [Rock, Paper, Scissors (JS)](https://github.com/danjocutler/javaRockPaperScissors)
 
-        - Re-creating a version of RPS using a different scenario
+        - Re-creating a version of Rock, Paper, scissors using javascript
 
-  - [x] [Fizzbuzz io](https://github.com/Scully87/fizzbuzz_io)
+  - [x] [Fizzbuzz Io](https://github.com/danjocutler/fizzbuzz_Io)
 
         - Learnt how to use the programming language io by doing a simple kata
 
-  - [x] [Javabuzz](https://github.com/Scully87/Javabuzz)
+  - [x] [Fibonacci Io](https://github.com/danjocutler/fibonacci_Io)
+
+        - Further Io practice with another kata; this time, the fibonacci sequence      
+
+  - [x] [Javabuzz](https://github.com/danjocutler/javabuzz)
 
         - Learnt how to use the programming language javascript by doing a simple kata
 
-  - [ ] [Airport](https://github.com/Scully87/Airport_JS)
-
-        - Used javascript to create an OOP program
-
-  - [ ] [FAAST JS](https://github.com/Scully87/FAAST_JS)
-
-        - Another OOP program to recreate a previous project in Ruby
-
-  - [ ] [Rock Paper Scissors JS](https://github.com/Scully87/RockPaperScissors_Javascript)
-
-        - Re-creating RPS in javascript language
-
-  - [ ] [Up Your Alley](https://github.com/Scully87/Up-Your-Alley)(Weekend project)
+  - [ ] [bowling scorer](https://github.com/danjocutler/)(Weekend project)
 
         - Crreating a ten pin bowling scorer in Javascript
 
@@ -212,15 +200,15 @@ Week 6
 
 ####Projects:
 
-  - [x] [Thermostat](https://github.com/Scully87/Thermostat_js)
+  - [ ] [Thermostat](https://github.com/danjocutler/thermostat_javascript)
 
         - Created a program to show current temperature and local weather report in a static location (London).
 
-  - [x] [Github Profiles API](https://github.com/Scully87/github_api)
+  - [x] [Github Profiles API](https://github.com/danjocutler/github_profiles)
 
         - Created a simple page to show the use of Github user profiles through the developer API
 
-  - [x] [Chitter](https://github.com/Scully87/Chitter_v8)(Weekend Challenge)
+  - [ ] [Chitter](https://github.com/danjocutler/)(Weekend Challenge)
 
         - A Twitter clone using Javascript and your own API to display the tweets
 
@@ -237,11 +225,7 @@ Week 7
 
 ####Projects:
 
-  - [x] [Chatter](https://github.com/Scully87/chat-example)
-
-        - A simple server using sockets to make a chat program
-
-  - [x] [CoffeeBuzz](https://github.com/Scully87/Coffee_Buzz)
+  - [x] [CoffeeBuzz](https://github.com/danjocutler/fizzbuzz_coffeescript)
 
         - A simple kata to understand the CoffeeScript language
 
@@ -259,11 +243,11 @@ Week 8
 
 ####Projects:
 
-  - [x] [Yelp Clone](https://github.com/Scully87/Yelp_clone)(weekday project)
+  - [x] [Yelp Clone](https://github.com/danjocutler/yelp_clone)(weekday project)
 
         - A project to understand the fundamentals of Ruby on Rails
 
-  - [x] [TIMstagram](https://github.com/Scully87/TIMstagram)(Weekend Challenge)
+  - [ ] [InstaDAN](https://github.com/danjocutler/instagram)(Weekend Challenge)
 
         - A weekend project to re-create [Instagram](http://www.instagram.com)
 
@@ -271,19 +255,19 @@ Week 9
 --------
 
 ####Technologies Used:
+  - Ruby
+  - Rails
   - Javasript
   - JQuery
-  - Node.js
-  - Socket.io
-  - Github API
   - HTML
   - CSS
+  - Stripe
 
 ####Projects:
 
-  - [x] [GitRacer](https://github.com/zrasool88/gitRacer)(Makeathon Week)
+  - [x] [Fundr/Mental](https://github.com/alexfakhri/University-Kickstarter)(Makeathon Week)
 
-        - A program created to update live commit information of a users github profile.
+        - A 3 day mini-project challenge. In a team of 4, we made a Kickstarter style web app for university funding
 
 Week 10
 ---------
@@ -291,54 +275,34 @@ Week 10
 ####Technologies Used:
   - Ruby
   - RSpec
-  - Javascript
-  - Node
-  - Express
 
 ####Projects:
 
-  - [x] [Sinatra Template Gem](https://github.com/Scully87/sinatra_template_gem) || [Click Here for Gem](http://rubygems.org/gems/sinatra_template)
+  - [x] [Meta Programming](https://github.com/danjocutler/metaprogramming)
 
-        - Created a gem for a simple Sinatra app Template complete with required CSS files and JQuery
-
-  - [x] [Testing Steve's "Make a Gem called"](https://github.com/Scully87/testing_gem_with_steve)
-
-    - Testing a gem creator by fellow maker [HatStephens](https://github.com/HatStephens) to be able to publish my own gem || [Click Here for the 'Make me a Gem Called' Gem](http://rubygems.org/gems/make_me_a_gem_called)
-
-  - [x] [Sinatra Template](https://github.com/Scully87/Sinatra-Template)
-
-        - Simple sinatra template
-
-  - [x] [Node Server Template](https://github.com/Scully87/Express_Template)
-
-        - Simple Node-Express server template
-
-  - [x] [Meta Programming](https://github.com/Scully87/Meta_Programming)
-
-        - Learning how to use meta programming with Ruby
-
-  - [x] [Javascripting](https://github.com/Scully87/Javascripting)
-
-        - Javascript practice
+        - Learning meta programming with Ruby
 
 Final Project
 ===============
 
-Week 11
+Week 11 & 12
 ---------
 
 ####Technologies Used:
 
-  - Ruby
-  - Rails
-  - RSpec
+  - Meteor
+  - Mongodb
+  - Hammerjs
+  - javascript
+  - Jquery
   - HTML
   - CSS
-  - jQuery
 
 ####Projects
 
-  - [x] [REWARDR](https://github.com/HatStephens/FATS_Rewardr)
+  - [ ] [Flicky notes](https://github.com/karinnielsen/Final-Project-POSTit)
+
+        - Our final project utilises web and smartphone to make and share notes in meetings and group conferences
 
 
 Week 12
