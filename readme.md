@@ -52,6 +52,7 @@ Week 1
         - Chicago Style Testing
 
   - [x] [Boris Bikes 2](https://github.com/danjocutler/boristwo)
+        - London Style Testing
 
         - CRC
         - TDD
@@ -145,7 +146,7 @@ Week 4
 
 ####Projects:
 
-  - [x] [Bookmark Manager](https://github.com/danjocutler/bookmark_manager) (Weekday Challenge)
+  - [ ] [Bookmark Manager](https://github.com/danjocutler/bookmark_manager) (Weekday Challenge)
 
         - Learning how to use Databases
 
@@ -225,7 +226,7 @@ Week 7
 
 ####Projects:
 
-  - [x] [CoffeeBuzz](https://github.com/danjocutler/fizzbuzz_coffeescript)
+  - [x] [CoffeeBuzz](https://github.com/danjocutler/fizzbuzz_coffescript)
 
         - A simple kata to understand the CoffeeScript language
 
