@@ -82,7 +82,7 @@ Week 2
 
 ####Projects:
 
-  - [ ] [BattleShips](https://github.com/EllaNancyFay/battleships) (Weekday Challenge)
+  - [x] [BattleShips](https://github.com/EllaNancyFay/battleships) (Weekday Challenge)
 
         - Team Working
         - Modelling Domain
@@ -115,7 +115,7 @@ Week 3
 
 ####Projects:
 
-  - [ ] [BattleShips Web](https://github.com/danjocutler/battleships_web) (Weekday Challenge)
+  - [x] [BattleShips Web](https://github.com/danjocutler/battleships_web) (Weekday Challenge)
 
         - Sinatra
         - Cucumber
@@ -150,7 +150,7 @@ Week 4
 
 ####Projects:
 
-  - [ ] [Bookmark Manager](https://github.com/danjocutler/bookmark_manager) (Weekday Challenge)
+  - [x] [Bookmark Manager](https://github.com/danjocutler/bookmark_manager) (Weekday Challenge)
 
         - Learning how to use Databases
 
@@ -323,15 +323,6 @@ Week 11 & 12
 
 ####Projects
 
-  - [ ] [Flicky notes](https://github.com/karinnielsen/Final-Project-POSTit)
+  - [x] [Flicky notes](https://github.com/karinnielsen/Final-Project-POSTit)
 
         - Our final project utilises web and smartphone to make and share notes in meetings and group conferences
-
-
-Week 12
----------
-
-
-
-
-
