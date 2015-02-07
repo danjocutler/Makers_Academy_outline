@@ -244,7 +244,7 @@ Week 7
 
         - A tutorial to get the basics of nodeJS
 
-  - [ ] [Ruby Refresher](https://github.com/danjocutler/ruby_refresher)
+  - [x] [Ruby Refresher](https://github.com/danjocutler/ruby_refresher)
 
         - 49 carefully selected Rspec tests to refresh our ruby brains before Rails
 
