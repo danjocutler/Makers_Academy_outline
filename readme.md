@@ -189,7 +189,7 @@ Week 5
 
   - [ ] [bowling scorer](https://github.com/danjocutler/)(Weekend project)
 
-        - Crreating a ten pin bowling scorer in Javascript
+        - Creating a ten pin bowling scorer in Javascript
 
 Week 6
 --------
