@@ -66,7 +66,7 @@ Week 1
         - London Style Testing (Version 1)
 
   - [x] [Unixoid](https://github.com/danjocutler/unixoid)
-  
+
         - Command Line practice      
 
   - [x] [Octocat Challenge](https://github.com/danjocutler/Github_challenge_questions) (Friday Challenge)
@@ -268,7 +268,7 @@ Week 8
 
   - [ ] [InstaDAN](https://github.com/danjocutler/instagram)(Weekend Challenge)
 
-        - A weekend project to re-create [Instagram](http://www.instagram.com)
+        - A weekend project to re-create [Instagram](https://www.instagram.com)
 
 Week 9
 --------
@@ -302,7 +302,7 @@ Week 10
         - Learning meta programming with Ruby
 
   - [x] [Tournaent Manager](https://github.com/danjocutler/tournament_prog)
-  
+
         - (Extra-curricular; not part of course) A combined effort with 2 other colleagues to create a table tennis tournament manager      
 
 Final Project
